@@ -1,0 +1,13 @@
+.canvas {
+    border: solid 5px;
+    border-color:black ;
+    background-color: beige;
+
+}
+.body{
+
+}
+.emptycell {
+    width: 50px;
+
+}
